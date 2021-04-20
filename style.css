@@ -102,7 +102,7 @@ h4, .liste1{
 }
 }
 
-@media screen and (max-width: 1024px){ 
+@media screen and (max-width: 1000px){ 
   .marge{
     text-align: center;
   }
@@ -138,7 +138,7 @@ h4, .liste1{
     text-align: center;
   }
   }
-  @media screen and (max-width: 1325px){
+  @media screen and (max-width: 1024px){
     .marge{
       text-align: center;
     } 
